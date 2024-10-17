@@ -370,20 +370,6 @@ label {
   color: black;
 }
 
-/*.gallery {
-  padding: 50px;
-  display: flex;
-}
-
-.galleryItem {
-  flex: 1;
-  padding: 50px;
-}
-
-.galleryImg {
-  width: 90%;
-}*/
-
 .newSeason {
   display: flex;
 }
